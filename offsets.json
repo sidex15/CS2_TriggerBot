@@ -1,0 +1,15 @@
+{
+  "client_dll": {
+    "data": {
+      "dwEntityList": {
+        "value": 24910032,
+        "comment": null
+      },
+      "dwLocalPlayerPawn": {
+        "value": 23891656,
+        "comment": null
+      }
+    },
+    "comment": "client.dll"
+  }
+}
